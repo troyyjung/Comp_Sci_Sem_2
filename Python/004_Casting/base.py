@@ -1,0 +1,6 @@
+x=str(4)
+print("The First number is:" + x)
+y=str(2)
+print("The Second number is:" +y)
+z=str(8)
+print("The answer is:" +z)
